@@ -34,3 +34,5 @@ An alfred workflow to kill process
 加上这个参数之后就一马平川了。这是学了一周 `shell` 之后的一个小 `demo` 很多不足，之后可以慢慢改进。
 
 总体感觉 `shell `编程还是非常高效和实用的。而且应用场景非常广泛。
+
+Master branch test
