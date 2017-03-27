@@ -36,3 +36,5 @@ An alfred workflow to kill process
 总体感觉 `shell `编程还是非常高效和实用的。而且应用场景非常广泛。
 
 Master branch test
+Test/PullRequest branch info
+
